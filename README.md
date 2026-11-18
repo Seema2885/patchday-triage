@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Patchday — Vulnerability triage workspace
 
 Patchday is a small React application for a security analyst who needs to decide which software vulnerabilities deserve attention first and track remediation across a mixed production environment.
@@ -77,3 +78,6 @@ AI was used as a development collaborator to help turn the open-ended prompt int
 ## Notes
 
 The interface name, company, people, assets, IP addresses, and records are fictional. The app requires no secrets or backend service.
+=======
+# patchday-triage
+>>>>>>> 5a9f2cdcf85b4fbb3271e7db3b466a4553a321ba
